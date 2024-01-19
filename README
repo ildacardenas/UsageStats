@@ -1,0 +1,4 @@
+You want to start with the file usagestatsfy23.py this code will read in all you usage stats regardless of file type. 
+Then it will concatenate them all into one big spreadsheet. 
+You can run the whole thing if you're working with Harrassowitz renewals, run the whole thing. 
+If you're working on compiling statistics for ACRL, you can stop after you concatenate all your stats and then open up the code addallvalues and run that. 
